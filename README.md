@@ -12,3 +12,9 @@
 1. 创建了新的类Host
 2. 定义了静态方法speak
 3. 控制台输入，显示**Hello + GueatName**文字~~（与Hello显示结果一样）~~
+
+## 三、WPF上的HelloWorld(HelloWPF)
+![HelloWPF输出结果](https://github.com/TJUamoeba/Amoeba/blob/master/Pictures/WPF.PNG?raw=true)
+
+1. 学习了WPF上显示文字、创建按钮的方法
+2. 有待改进中
