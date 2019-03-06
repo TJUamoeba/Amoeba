@@ -4,4 +4,4 @@
 2. 定义了private 变量 GuestName, 和public方法speak
 3. 生成实例，通过控制台输入GuestName
 4. 显示**Hello + GuestName**文字
-![输出结果]（https://github.com/TJUamoeba/Amoeba/blob/master/Pictures/Hello1.PNG?raw=true）
+![输出结果](https://github.com/TJUamoeba/Amoeba/blob/master/Pictures/Hello1.PNG?raw=true)
