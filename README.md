@@ -16,5 +16,13 @@
 ## 三、WPF上的HelloWorld(HelloWPF)
 ![HelloWPF输出结果](https://github.com/TJUamoeba/Amoeba/blob/master/Pictures/WPF.PNG?raw=true)
 
-1. 学习了WPF上显示文字、创建按钮的方法
+1. 学习了WPF上显示文字、创建按钮的方法（但是没有给按钮添加事件）
 2. 有待改进中
+
+## 四、WindowsForm上的HelloWorld(HelloWindowsForm)
+![WinF输出结果](https://github.com/TJUamoeba/Amoeba/blob/master/Pictures/WinF.PNG?raw=true)
+
+1. 学习了WindowsForm工具箱的基本使用方法
+2. 创建了一个按钮But1,设定了点击事件：在TextBox中显示文字
+3. ~图形界面都很有意思~
+4. 有待改进中
