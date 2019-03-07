@@ -24,17 +24,5 @@ namespace HelloWPF
         {
             InitializeComponent();
         }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            if (HelloBut.IsChecked == true)
-            {
-                MessageBox.Show("Hello!");
-            }
-            else if (ByeBut.IsChecked == true)
-            {
-                MessageBox.Show("ByeBye.");
-            }
-        }
     }
 }

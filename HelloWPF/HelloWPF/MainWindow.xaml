@@ -7,15 +7,16 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button FontWeight="Bold" Width="100" RenderTransformOrigin="0.475,0.793" Margin="13,350,346.6,30">
+        <Button FontWeight="Bold" RenderTransformOrigin="0.475,0.793" Margin="323,353,333.6,27" Click="Button_Click">
             <WrapPanel>
-                <TextBlock Foreground="AliceBlue" FontSize="16">Hello</TextBlock>
-                <TextBlock Foreground="DeepPink" FontSize="16">WPF</TextBlock>
+                <TextBlock Foreground="OrangeRed" FontSize="16">Display</TextBlock>
             </WrapPanel>
         </Button>
-        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="72">
+        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="72" Margin="209,105,207.6,223">
             Hello,WPF!
         </TextBlock>
+        <RadioButton x:Name="HelloBut" Content="Hello" HorizontalAlignment="Left" Margin="209,311,0,0" VerticalAlignment="Top" IsChecked="True"/>
+        <RadioButton x:Name="ByeBut" Content="ByeBye" HorizontalAlignment="Left" Margin="507,314,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
