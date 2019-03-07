@@ -32,3 +32,5 @@
 
 1. 与WindowsForm类似
 2. 有待改进中
+3. ~↓改进失败~
+![失败](https://github.com/TJUamoeba/Amoeba/blob/master/Pictures/HelloA.PNG?raw=true)
