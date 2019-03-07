@@ -14,10 +14,10 @@
 3. 控制台输入，显示**Hello + GueatName**文字(与Hello1显示结果一样)
 
 ## 三、WPF上的HelloWorld(HelloWPF)
-![HelloWPF输出结果](https://github.com/TJUamoeba/Amoeba/blob/master/Pictures/WPF.PNG?raw=true)
+![HelloWPF输出结果](https://github.com/TJUamoeba/Amoeba/blob/master/Pictures/WPF2.PNG?raw=true)
 
-1. 学习了WPF上显示文字、创建按钮的方法（但是没有给按钮添加事件）
-2. 有待改进中
+1. 第二版，按照VS自带的教程添加了选择按钮
+2. 添加了按钮的点击事件
 
 ## 四、WindowsForm上的HelloWorld(HelloWindowsForm)
 ![WinF输出结果](https://github.com/TJUamoeba/Amoeba/blob/master/Pictures/WinF.PNG?raw=true)
