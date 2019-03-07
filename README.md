@@ -26,3 +26,9 @@
 2. 创建了一个按钮But1,设定了点击事件：在TextBox中显示文字
 3. ~图形界面都很有意思~
 4. 有待改进中
+
+## 五、Android的HelloWorld(HelloAndroid)
+![HeloA的输出结果](https://github.com/TJUamoeba/Amoeba/blob/master/Pictures/HelloAndroid.PNG?raw=true)
+
+1. 与WindowsForm类似
+2. 有待改进中
